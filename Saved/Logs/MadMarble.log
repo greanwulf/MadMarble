@@ -609,3 +609,1480 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.10-22.38.06:935][355]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2020.02.10-22.38.06:941][355]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.02.10-22.38.33:812][513]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.10-22.41.07:660][801]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.02.10-22.42.15:596][567]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.10-22.42.21:401][244]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Actors/Cannon/BP_CannonBall.BP_CannonBall
+[2020.02.10-22.42.21:581][244]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.02.10-22.42.22:862][311]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.10-22.42.25:267][570]LogSlate: Window 'BP_CannonBall' being destroyed
+[2020.02.10-22.43.06:622][680]LogAssetTools: Warning: Failed to import 'C:\Users\grean\Google Drive\Game Dev\CustomArt\SM_CannonBarrel.blend'. Unknown extension 'blend'.
+[2020.02.10-22.47.16:172][889]AssetReimport: New page: Outstanding source content changes 12:47:16 PM
+[2020.02.10-22.47.16:176][889]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/Meshes/SM_CannonBarrel.fbx)
+[2020.02.10-22.47.16:214][889]LogFbx: Loading FBX Scene from C:/Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/Meshes/SM_CannonBarrel.fbx
+[2020.02.10-22.47.16:228][889]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.10-22.47.40:159][889]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.10-22.47.40:246][889]LogStaticMesh: Building static mesh SM_CannonBarrel...
+[2020.02.10-22.47.40:252][889]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprint/Actors/Cannon/Meshes/SM_CannonBarrel.SM_CannonBarrel
+[2020.02.10-22.47.40:542][890]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/Meshes/SM_CannonBase.fbx)
+[2020.02.10-22.47.40:548][890]LogFbx: Loading FBX Scene from C:/Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/Meshes/SM_CannonBase.fbx
+[2020.02.10-22.47.40:553][890]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.10-22.47.43:485][890]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.10-22.47.43:519][890]LogStaticMesh: Building static mesh SM_CannonBase...
+[2020.02.10-22.47.43:522][890]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprint/Actors/Cannon/Meshes/SM_CannonBase.SM_CannonBase
+[2020.02.10-22.47.43:707][891]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/SM_CannonBarrelFD5FEB594214588310CD0CAE7E696137.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/Meshes/SM_CannonBarrel.uasset'
+[2020.02.10-22.47.43:877][891]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/SM_CannonBase6DF8CAE849B1D2794D5C6192EEFECCCE.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/Meshes/SM_CannonBase.uasset'
+[2020.02.10-22.47.44:022][892]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.10-22.47.44:022][892]LogContentValidation: Display: Validating StaticMesh /Game/Blueprint/Actors/Cannon/Meshes/SM_CannonBarrel.SM_CannonBarrel
+[2020.02.10-22.47.44:022][892]LogContentValidation: Display: Validating StaticMesh /Game/Blueprint/Actors/Cannon/Meshes/SM_CannonBase.SM_CannonBase
+[2020.02.10-22.47.46:989][248]AssetReimport: Importing new asset /Game/Blueprint/Actors/Cannon/Meshes/SM_CannonBarrel.
+[2020.02.10-22.47.46:990][248]AssetReimport: Importing new asset /Game/Blueprint/Actors/Cannon/Meshes/SM_CannonBase.
+[2020.02.10-22.48.19:660][961]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.10-22.48.28:167][962]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Actors/Cannon/BP_Cannon.BP_Cannon
+[2020.02.10-22.50.04:438][254]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-22.50.04:715][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.02.10-22.50.05:374][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Actors/Cannon/BP_Cannon" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/BP_Cannon.uasset" SILENT=true
+[2020.02.10-22.50.05:389][306]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_CannonBBE2CDB94A9CBC9A3DEFF19E6CBEF699.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/BP_Cannon.uasset'
+[2020.02.10-22.50.05:508][306]AssetCheck: New page: Asset Save: BP_Cannon
+[2020.02.10-22.50.05:508][306]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Actors/Cannon/BP_Cannon.BP_Cannon
+[2020.02.10-22.50.18:346][817]Cmd: DELETE
+[2020.02.10-22.50.18:346][817]Cmd: ACTOR DELETE
+[2020.02.10-22.50.18:353][817]LogEditorActor: Deleted Actor: BP_Cannon_C
+[2020.02.10-22.50.18:393][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.02.10-22.50.18:395][817]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.02.10-22.50.58:330][531]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-22.50.58:545][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.02.10-22.50.59:108][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Actors/Cannon/BP_Cannon" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/BP_Cannon.uasset" SILENT=true
+[2020.02.10-22.50.59:128][578]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_CannonF5E0DAD44AACAEE35235B99E86610F8A.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/BP_Cannon.uasset'
+[2020.02.10-22.50.59:141][578]AssetCheck: New page: Asset Save: BP_Cannon
+[2020.02.10-22.50.59:141][578]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Actors/Cannon/BP_Cannon.BP_Cannon
+[2020.02.10-22.52.40:023][397]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.02.10-22.52.40:029][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.10-22.52.40:238][397]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Level1_Auto1E25BE2B14FDDCE876CF499A1C20BA1CF.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto1.umap'
+[2020.02.10-22.52.40:240][397]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.254
+[2020.02.10-22.52.40:240][397]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.254
+[2020.02.10-22.52.40:240][397]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_CannonBall] ([1] browsable assets)...
+[2020.02.10-22.52.40:255][397]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Cannon/BP_CannonBall.BP_CannonBall]
+[2020.02.10-22.52.40:255][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_CannonBall]
+[2020.02.10-22.52.40:268][397]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_CannonBall_Auto1599A689A4CA54C495599E6807319D6B1.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_CannonBall_Auto1.uasset'
+[2020.02.10-22.52.40:269][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_Cannon] ([1] browsable assets)...
+[2020.02.10-22.52.40:269][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_Cannon]
+[2020.02.10-22.52.40:277][397]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_Cannon_Auto1E7E4B72E469B9C34BCB826B9EDEE291C.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_Cannon_Auto1.uasset'
+[2020.02.10-22.52.40:278][397]LogFileHelpers: Auto-saving content packages took 0.039
+[2020.02.10-22.53.18:239][871]BlueprintLog: New page: Compile BP_CannonBall
+[2020.02.10-22.53.18:456][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.02.10-22.53.20:714][127]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-22.53.20:733][127]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-22.53.20:733][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.10-22.53.20:733][127]PIE: New page: PIE session: Level1 (Feb 10, 2020, 12:53:20 PM)
+[2020.02.10-22.53.20:734][127]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.10-22.53.20:735][127]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.10-22.53.20:735][127]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-22.53.20:740][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005275s)
+[2020.02.10-22.53.20:741][127]LogAIModule: Creating AISystem for world Level1
+[2020.02.10-22.53.20:741][127]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2020.02.10-22.53.20:741][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006195s)
+[2020.02.10-22.53.20:779][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.02.10-22.53.20:779][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.10-22.53.20:779][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.10-22.53.20:779][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.10-22.53.20:779][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.10-22.53.20:779][127]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.10-22.53.20:779][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.10-22.53.20:779][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.10-22.53.20:779][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.10-22.53.20:780][127]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.10-22.53.20:780][127]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.10-22.53.20:809][127]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.10-22.53.20:809][127]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-22.53.20:809][127]LogAudioMixer: Display: Is Default: Yes
+[2020.02.10-22.53.20:809][127]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.10-22.53.20:809][127]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.10-22.53.20:809][127]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.10-22.53.20:809][127]LogAudioMixer: Display: Channel Order:
+[2020.02.10-22.53.20:809][127]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.10-22.53.20:809][127]LogAudioMixer: Display: 1: FrontRight
+[2020.02.10-22.53.20:817][127]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-22.53.20:818][127]LogInit: FAudioDevice initialized.
+[2020.02.10-22.53.20:867][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-22.53.20:868][127]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.10-22.53.20:871][127]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-17.53.20
+[2020.02.10-22.53.20:871][127]LogWorld: Bringing up level for play took: 0.001850
+[2020.02.10-22.53.20:871][127]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.02.10-22.53.20:874][127]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2020.02.10-22.53.20:880][127]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 1.124
+[2020.02.10-22.53.20:881][127]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-22.53.21:134][129]LogRenderer: Reallocating scene render targets to support 1024x744 Format 10 NumSamples 1 (Frame:1).
+[2020.02.10-22.53.22:566][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-22.53.22:566][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-22.53.22:566][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-22.53.22:566][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-22.53.22:566][299]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-22.53.22:576][299]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.10-22.53.22:581][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-22.53.22:581][299]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-22.53.22:581][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-22.53.22:585][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-22.53.22:585][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-22.53.22:590][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-22.53.22:630][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-22.53.22:659][299]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.02.10-22.53.22:667][300]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.10-23.03.29:144][853]BlueprintLog: New page: Compile BP_CannonBall
+[2020.02.10-23.03.29:411][853]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.02.10-23.03.56:074][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.02.10-23.03.56:075][983]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.036
+[2020.02.10-23.03.56:075][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_CannonBall] ([1] browsable assets)...
+[2020.02.10-23.03.56:084][983]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Cannon/BP_CannonBall.BP_CannonBall]
+[2020.02.10-23.03.56:084][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_CannonBall]
+[2020.02.10-23.03.56:100][983]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_CannonBall_Auto2C9C6FB5944F145DC72DF5C88264040A6.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_CannonBall_Auto2.uasset'
+[2020.02.10-23.03.56:100][983]LogFileHelpers: Auto-saving content packages took 0.025
+[2020.02.10-23.05.31:740][373]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.10-23.08.23:321][469]LogHttp: Warning: 000001B5CF1ED580: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3924CCF4-4716-C198-3E1A-3EA640892E4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=15b88ba44bc9e5e22a450284e1f96240%7C34d0ed53a38e45189717274d34db3cdb%7Ca51899fb-480c-4057-9235-f5aa66db1140&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.10-23.08.23:321][469]LogHttp: Warning: 000001B5CF1ED580: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.10-23.08.23:321][469]LogHttp: Warning: 000001B5CF1ED580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b56e967f70 [can pipeline])
+[2020.02.10-23.08.23:321][469]LogHttp: Warning: 000001B5CF1ED580: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2020.02.10-23.08.23:321][469]LogHttp: Warning: 000001B5CF1ED580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.226.55.227) port 443 (#8))
+[2020.02.10-23.08.23:321][469]LogHttp: Warning: 000001B5CF1ED580: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.10-23.08.23:321][469]LogHttp: Warning: 000001B5CF1ED580: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.10-23.08.23:321][469]LogHttp: Warning: 000001B5CF1ED580: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.10-23.08.23:321][469]LogHttp: Warning: 000001B5CF1ED580: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.10-23.08.23:321][469]LogHttp: Warning: 000001B5CF1ED580: libcurl info message cache 7 (Closing connection 8)
+[2020.02.10-23.08.23:328][470]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3924CCF4-4716-C198-3E1A-3EA640892E4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=15b88ba44bc9e5e22a450284e1f96240%7C34d0ed53a38e45189717274d34db3cdb%7Ca51899fb-480c-4057-9235-f5aa66db1140&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.10-23.10.58:447][ 16]BlueprintLog: New page: Compile BP_CannonBall
+[2020.02.10-23.10.58:706][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.02.10-23.11.53:839][515]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-23.11.54:090][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.02.10-23.12.17:331][246]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-23.12.17:532][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.02.10-23.14.25:604][324]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.10-23.15.12:124][822]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-23.15.12:335][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.02.10-23.15.13:649][974]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-23.15.13:667][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.15.13:667][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.10-23.15.13:667][974]PIE: New page: PIE session: Level1 (Feb 10, 2020, 1:15:13 PM)
+[2020.02.10-23.15.13:667][974]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.15.13:673][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005365s)
+[2020.02.10-23.15.13:673][974]LogAIModule: Creating AISystem for world Level1
+[2020.02.10-23.15.13:673][974]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2020.02.10-23.15.13:673][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006164s)
+[2020.02.10-23.15.13:709][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.02.10-23.15.13:709][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.10-23.15.13:709][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.10-23.15.13:709][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.10-23.15.13:709][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.10-23.15.13:709][974]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.10-23.15.13:709][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.10-23.15.13:709][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.10-23.15.13:709][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.10-23.15.13:710][974]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.10-23.15.13:710][974]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.10-23.15.13:739][974]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.10-23.15.13:739][974]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.15.13:739][974]LogAudioMixer: Display: Is Default: Yes
+[2020.02.10-23.15.13:739][974]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.10-23.15.13:739][974]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.10-23.15.13:739][974]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.10-23.15.13:739][974]LogAudioMixer: Display: Channel Order:
+[2020.02.10-23.15.13:739][974]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.10-23.15.13:739][974]LogAudioMixer: Display: 1: FrontRight
+[2020.02.10-23.15.13:748][974]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.15.13:749][974]LogInit: FAudioDevice initialized.
+[2020.02.10-23.15.13:777][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.15.13:777][974]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.10-23.15.13:779][974]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-18.15.13
+[2020.02.10-23.15.13:779][974]LogWorld: Bringing up level for play took: 0.001135
+[2020.02.10-23.15.13:779][974]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.02.10-23.15.13:783][974]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.027
+[2020.02.10-23.15.13:784][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.15.17:374][400]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.15.17:374][400]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.15.17:374][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.15.17:375][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.15.17:375][400]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.15.17:384][400]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.10-23.15.17:389][400]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.15.17:390][400]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-23.15.17:390][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.15.17:398][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-23.15.17:398][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.15.17:403][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.15.17:429][400]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.15.17:434][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.02.10-23.15.17:482][405]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.10-23.17.38:750][878]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-23.17.38:766][878]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.17.38:766][878]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.10-23.17.38:768][878]LogPlayLevel: [PlayLevel] Compiling BP_CannonBall before play...
+[2020.02.10-23.17.38:944][878]LogPlayLevel: [PlayLevel] Compiling BP_Cannon before play...
+[2020.02.10-23.17.39:154][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.02.10-23.17.39:156][878]LogPlayLevel: PlayLevel: Blueprint regeneration took 391 ms (2 blueprints)
+[2020.02.10-23.17.39:157][878]PIE: New page: PIE session: Level1 (Feb 10, 2020, 1:17:39 PM)
+[2020.02.10-23.17.39:157][878]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.17.39:162][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005333s)
+[2020.02.10-23.17.39:163][878]LogAIModule: Creating AISystem for world Level1
+[2020.02.10-23.17.39:163][878]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2020.02.10-23.17.39:163][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006079s)
+[2020.02.10-23.17.39:193][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.02.10-23.17.39:193][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.10-23.17.39:193][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.10-23.17.39:193][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.10-23.17.39:193][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.10-23.17.39:193][878]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.10-23.17.39:193][878]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.10-23.17.39:193][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.10-23.17.39:194][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.10-23.17.39:194][878]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.10-23.17.39:194][878]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.10-23.17.39:222][878]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.10-23.17.39:223][878]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.17.39:223][878]LogAudioMixer: Display: Is Default: Yes
+[2020.02.10-23.17.39:223][878]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.10-23.17.39:223][878]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.10-23.17.39:223][878]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.10-23.17.39:223][878]LogAudioMixer: Display: Channel Order:
+[2020.02.10-23.17.39:223][878]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.10-23.17.39:223][878]LogAudioMixer: Display: 1: FrontRight
+[2020.02.10-23.17.39:231][878]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.17.39:232][878]LogInit: FAudioDevice initialized.
+[2020.02.10-23.17.39:277][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.17.39:277][878]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.10-23.17.39:279][878]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-18.17.39
+[2020.02.10-23.17.39:279][878]LogWorld: Bringing up level for play took: 0.001188
+[2020.02.10-23.17.39:279][878]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.02.10-23.17.39:282][878]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.474
+[2020.02.10-23.17.39:283][878]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.17.43:875][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.17.43:875][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.17.43:875][415]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.17.43:875][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.17.43:875][415]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.17.43:885][415]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.10-23.17.43:890][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.17.43:890][415]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-23.17.43:890][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.17.43:898][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-23.17.43:898][415]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.17.43:902][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.17.43:934][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.17.43:939][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.02.10-23.17.43:978][419]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.10-23.18.58:903][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.10-23.18.58:905][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.10-23.18.59:096][317]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Level1_Auto33CFE04C74EF49C835CAE10966567C0F4.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto3.umap'
+[2020.02.10-23.18.59:097][317]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.226
+[2020.02.10-23.18.59:097][317]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.226
+[2020.02.10-23.18.59:097][317]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_CannonBall] ([1] browsable assets)...
+[2020.02.10-23.18.59:126][317]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Cannon/BP_CannonBall.BP_CannonBall]
+[2020.02.10-23.18.59:126][317]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_CannonBall]
+[2020.02.10-23.18.59:144][317]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_CannonBall_Auto315DB24C345F9FA7B80FAD2B2861774A4.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_CannonBall_Auto3.uasset'
+[2020.02.10-23.18.59:145][317]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_Cannon] ([1] browsable assets)...
+[2020.02.10-23.18.59:160][317]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Cannon/BP_Cannon.BP_Cannon]
+[2020.02.10-23.18.59:160][317]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_Cannon]
+[2020.02.10-23.18.59:182][317]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_Cannon_Auto3F2AF676949F8C72E11320EB0BAAF50F4.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_Cannon_Auto3.uasset'
+[2020.02.10-23.18.59:183][317]LogFileHelpers: Auto-saving content packages took 0.086
+[2020.02.10-23.19.14:715][146]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.10-23.19.33:234][272]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-23.19.33:440][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.10-23.19.39:117][935]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-23.19.39:319][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.02.10-23.19.41:400][179]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-23.19.41:416][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.19.41:416][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.10-23.19.41:416][179]PIE: New page: PIE session: Level1 (Feb 10, 2020, 1:19:41 PM)
+[2020.02.10-23.19.41:416][179]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.19.41:422][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005482s)
+[2020.02.10-23.19.41:422][179]LogAIModule: Creating AISystem for world Level1
+[2020.02.10-23.19.41:422][179]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2020.02.10-23.19.41:422][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006216s)
+[2020.02.10-23.19.41:456][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.10-23.19.41:456][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.10-23.19.41:456][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.10-23.19.41:456][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.10-23.19.41:456][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.10-23.19.41:456][179]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.10-23.19.41:456][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.10-23.19.41:456][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.10-23.19.41:456][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.10-23.19.41:457][179]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.10-23.19.41:457][179]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.10-23.19.41:486][179]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.10-23.19.41:486][179]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.19.41:486][179]LogAudioMixer: Display: Is Default: Yes
+[2020.02.10-23.19.41:486][179]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.10-23.19.41:486][179]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.10-23.19.41:486][179]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.10-23.19.41:486][179]LogAudioMixer: Display: Channel Order:
+[2020.02.10-23.19.41:486][179]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.10-23.19.41:486][179]LogAudioMixer: Display: 1: FrontRight
+[2020.02.10-23.19.41:494][179]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.19.41:495][179]LogInit: FAudioDevice initialized.
+[2020.02.10-23.19.41:546][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.19.41:547][179]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.10-23.19.41:548][179]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-18.19.41
+[2020.02.10-23.19.41:548][179]LogWorld: Bringing up level for play took: 0.000964
+[2020.02.10-23.19.41:549][179]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.02.10-23.19.41:552][179]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.205
+[2020.02.10-23.19.41:552][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.19.43:851][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.19.43:851][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.19.43:851][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.19.43:851][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.19.43:851][452]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.19.43:861][452]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.10-23.19.43:866][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.19.43:866][452]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-23.19.43:867][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.19.43:877][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-23.19.43:877][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.19.43:882][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.19.43:913][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.19.43:918][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.02.10-23.19.43:956][455]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.10-23.20.14:931][ 80]LogHttp: Warning: 000001B599B64540: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3924CCF4-4716-C198-3E1A-3EA640892E4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=15b88ba44bc9e5e22a450284e1f96240%7C34d0ed53a38e45189717274d34db3cdb%7Ca51899fb-480c-4057-9235-f5aa66db1140&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.10-23.20.14:931][ 80]LogHttp: Warning: 000001B599B64540: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.10-23.20.14:931][ 80]LogHttp: Warning: 000001B599B64540: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b56e967f70 [can pipeline])
+[2020.02.10-23.20.14:931][ 80]LogHttp: Warning: 000001B599B64540: libcurl info message cache 1 (Re-using existing connection! (#11) with host datarouter.ol.epicgames.com)
+[2020.02.10-23.20.14:931][ 80]LogHttp: Warning: 000001B599B64540: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.218.27.87) port 443 (#11))
+[2020.02.10-23.20.14:931][ 80]LogHttp: Warning: 000001B599B64540: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.10-23.20.14:931][ 80]LogHttp: Warning: 000001B599B64540: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.10-23.20.14:931][ 80]LogHttp: Warning: 000001B599B64540: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.10-23.20.14:931][ 80]LogHttp: Warning: 000001B599B64540: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.10-23.20.14:931][ 80]LogHttp: Warning: 000001B599B64540: libcurl info message cache 7 (Closing connection 11)
+[2020.02.10-23.20.14:931][ 80]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3924CCF4-4716-C198-3E1A-3EA640892E4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=15b88ba44bc9e5e22a450284e1f96240%7C34d0ed53a38e45189717274d34db3cdb%7Ca51899fb-480c-4057-9235-f5aa66db1140&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.10-23.20.20:526][736]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-23.20.20:727][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.02.10-23.21.02:260][639]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-23.21.02:464][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.10-23.21.08:453][319]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-23.21.08:657][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.02.10-23.21.13:676][911]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-23.21.13:692][911]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.21.13:693][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.10-23.21.13:693][911]PIE: New page: PIE session: Level1 (Feb 10, 2020, 1:21:13 PM)
+[2020.02.10-23.21.13:693][911]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.21.13:698][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005417s)
+[2020.02.10-23.21.13:699][911]LogAIModule: Creating AISystem for world Level1
+[2020.02.10-23.21.13:699][911]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2020.02.10-23.21.13:699][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006217s)
+[2020.02.10-23.21.13:734][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.02.10-23.21.13:734][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.10-23.21.13:734][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.10-23.21.13:734][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.10-23.21.13:734][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.10-23.21.13:734][911]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.10-23.21.13:734][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.10-23.21.13:734][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.10-23.21.13:734][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.10-23.21.13:734][911]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.10-23.21.13:734][911]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.10-23.21.13:763][911]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.10-23.21.13:763][911]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.21.13:763][911]LogAudioMixer: Display: Is Default: Yes
+[2020.02.10-23.21.13:763][911]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.10-23.21.13:763][911]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.10-23.21.13:763][911]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.10-23.21.13:763][911]LogAudioMixer: Display: Channel Order:
+[2020.02.10-23.21.13:763][911]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.10-23.21.13:763][911]LogAudioMixer: Display: 1: FrontRight
+[2020.02.10-23.21.13:772][911]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.21.13:773][911]LogInit: FAudioDevice initialized.
+[2020.02.10-23.21.13:830][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.21.13:831][911]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.10-23.21.13:833][911]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-18.21.13
+[2020.02.10-23.21.13:833][911]LogWorld: Bringing up level for play took: 0.001207
+[2020.02.10-23.21.13:833][911]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.02.10-23.21.13:836][911]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.08
+[2020.02.10-23.21.13:837][911]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.21.18:010][410]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.21.18:010][410]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.21.18:010][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.21.18:010][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.21.18:010][410]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.21.18:020][410]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.10-23.21.18:026][410]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.21.18:026][410]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-23.21.18:027][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.21.18:036][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-23.21.18:036][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.21.18:041][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.21.18:073][410]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.21.18:079][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.02.10-23.21.18:114][413]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.10-23.22.09:551][444]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-23.22.09:758][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.02.10-23.23.47:541][143]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.10-23.28.51:896][525]LogEditorTransaction: Undo New Value Entered
+[2020.02.10-23.28.52:264][536]LogEditorTransaction: Undo New Time Entered
+[2020.02.10-23.29.18:886][658]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.02.10-23.29.18:891][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.10-23.29.19:082][658]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Level1_Auto4690C9B0D4479D3232CF1FB963D919A5C.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto4.umap'
+[2020.02.10-23.29.19:089][658]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.238
+[2020.02.10-23.29.19:089][658]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.238
+[2020.02.10-23.29.19:089][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_Cannon] ([1] browsable assets)...
+[2020.02.10-23.29.19:106][658]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Cannon/BP_Cannon.BP_Cannon]
+[2020.02.10-23.29.19:106][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_Cannon]
+[2020.02.10-23.29.19:129][658]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_Cannon_Auto47203723E460FCC451867DA9776940E8A.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_Cannon_Auto4.uasset'
+[2020.02.10-23.29.19:130][658]LogFileHelpers: Auto-saving content packages took 0.042
+[2020.02.10-23.29.27:907][709]LogEditorTransaction: Undo New Value Entered
+[2020.02.10-23.29.39:103][998]LogCurveEditor: Warning: A key on CurveFloat_0 could not be moved because there was already a key at that time.
+[2020.02.10-23.29.56:680][ 50]LogSlate: Took 0.007704 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.02.10-23.30.12:413][915]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-23.30.12:618][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.02.10-23.32.02:442][901]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.10-23.32.17:247][570]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-23.32.17:264][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.32.17:264][570]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.10-23.32.17:265][570]LogPlayLevel: [PlayLevel] Compiling BP_Cannon before play...
+[2020.02.10-23.32.17:489][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.02.10-23.32.17:492][570]LogPlayLevel: PlayLevel: Blueprint regeneration took 227 ms (1 blueprints)
+[2020.02.10-23.32.17:492][570]PIE: New page: PIE session: Level1 (Feb 10, 2020, 1:32:17 PM)
+[2020.02.10-23.32.17:492][570]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.32.17:498][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005580s)
+[2020.02.10-23.32.17:499][570]LogAIModule: Creating AISystem for world Level1
+[2020.02.10-23.32.17:499][570]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2020.02.10-23.32.17:499][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006418s)
+[2020.02.10-23.32.17:529][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.10-23.32.17:529][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.10-23.32.17:529][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.10-23.32.17:529][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.10-23.32.17:529][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.10-23.32.17:529][570]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.10-23.32.17:529][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.10-23.32.17:529][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.10-23.32.17:529][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.10-23.32.17:529][570]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.10-23.32.17:529][570]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.10-23.32.17:558][570]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.10-23.32.17:558][570]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.32.17:558][570]LogAudioMixer: Display: Is Default: Yes
+[2020.02.10-23.32.17:558][570]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.10-23.32.17:558][570]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.10-23.32.17:558][570]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.10-23.32.17:558][570]LogAudioMixer: Display: Channel Order:
+[2020.02.10-23.32.17:558][570]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.10-23.32.17:558][570]LogAudioMixer: Display: 1: FrontRight
+[2020.02.10-23.32.17:569][570]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.32.17:570][570]LogInit: FAudioDevice initialized.
+[2020.02.10-23.32.17:619][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.32.17:619][570]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.10-23.32.17:620][570]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-18.32.17
+[2020.02.10-23.32.17:621][570]LogWorld: Bringing up level for play took: 0.000966
+[2020.02.10-23.32.17:621][570]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.02.10-23.32.17:623][570]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.134
+[2020.02.10-23.32.17:623][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.32.22:056][ 85]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.32.22:057][ 85]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.32.22:057][ 85]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.32.22:057][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.32.22:057][ 85]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.32.22:067][ 85]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.10-23.32.22:072][ 85]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.32.22:072][ 85]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-23.32.22:072][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.32.22:083][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-23.32.22:083][ 85]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.32.22:088][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.32.22:116][ 85]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.32.22:121][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.02.10-23.32.22:163][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.10-23.39.23:861][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.02.10-23.39.23:864][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.10-23.39.24:059][503]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Level1_Auto5D154D63542249F0B841BCEBCA8BE9C48.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto5.umap'
+[2020.02.10-23.39.24:060][503]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.232
+[2020.02.10-23.39.24:060][503]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2020.02.10-23.39.24:060][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_Cannon] ([1] browsable assets)...
+[2020.02.10-23.39.24:076][503]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Cannon/BP_Cannon.BP_Cannon]
+[2020.02.10-23.39.24:076][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_Cannon]
+[2020.02.10-23.39.24:099][503]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_Cannon_Auto5AA1CB8E04CEFA1C7E3C8AE86998E13DC.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_Cannon_Auto5.uasset'
+[2020.02.10-23.39.24:100][503]LogFileHelpers: Auto-saving content packages took 0.041
+[2020.02.10-23.39.25:119][608]BlueprintLog: New page: Compile BP_Cannon
+[2020.02.10-23.39.25:322][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.10-23.39.41:676][565]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-23.39.41:691][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.39.41:691][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.10-23.39.41:691][565]PIE: New page: PIE session: Level1 (Feb 10, 2020, 1:39:41 PM)
+[2020.02.10-23.39.41:692][565]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.39.41:697][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005608s)
+[2020.02.10-23.39.41:698][565]LogAIModule: Creating AISystem for world Level1
+[2020.02.10-23.39.41:698][565]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2020.02.10-23.39.41:698][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006467s)
+[2020.02.10-23.39.41:729][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.02.10-23.39.41:729][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.10-23.39.41:729][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.10-23.39.41:729][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.10-23.39.41:729][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.10-23.39.41:729][565]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.10-23.39.41:729][565]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.10-23.39.41:729][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.10-23.39.41:729][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.10-23.39.41:730][565]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.10-23.39.41:730][565]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.10-23.39.41:759][565]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.10-23.39.41:759][565]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.39.41:759][565]LogAudioMixer: Display: Is Default: Yes
+[2020.02.10-23.39.41:759][565]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.10-23.39.41:759][565]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.10-23.39.41:759][565]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.10-23.39.41:759][565]LogAudioMixer: Display: Channel Order:
+[2020.02.10-23.39.41:759][565]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.10-23.39.41:759][565]LogAudioMixer: Display: 1: FrontRight
+[2020.02.10-23.39.41:767][565]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.39.41:768][565]LogInit: FAudioDevice initialized.
+[2020.02.10-23.39.41:821][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.39.41:821][565]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.10-23.39.41:823][565]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-18.39.41
+[2020.02.10-23.39.41:823][565]LogWorld: Bringing up level for play took: 0.001127
+[2020.02.10-23.39.41:823][565]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.02.10-23.39.41:827][565]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.07
+[2020.02.10-23.39.41:827][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.39.47:518][244]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.39.47:519][244]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.39.47:519][244]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.39.47:519][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.39.47:519][244]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.39.47:529][244]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.10-23.39.47:535][244]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.39.47:535][244]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-23.39.47:535][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.39.47:547][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-23.39.47:547][244]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.39.47:552][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.39.47:584][244]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.39.47:589][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.02.10-23.39.47:625][247]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.10-23.40.40:316][513]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-23.40.40:331][513]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.40.40:331][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.10-23.40.40:331][513]PIE: New page: PIE session: Level1 (Feb 10, 2020, 1:40:40 PM)
+[2020.02.10-23.40.40:331][513]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.40.40:336][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005496s)
+[2020.02.10-23.40.40:337][513]LogAIModule: Creating AISystem for world Level1
+[2020.02.10-23.40.40:338][513]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2020.02.10-23.40.40:338][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006801s)
+[2020.02.10-23.40.40:372][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.02.10-23.40.40:373][513]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.10-23.40.40:373][513]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.10-23.40.40:373][513]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.10-23.40.40:373][513]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.10-23.40.40:373][513]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.10-23.40.40:373][513]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.10-23.40.40:373][513]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.10-23.40.40:373][513]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.10-23.40.40:373][513]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.10-23.40.40:373][513]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.10-23.40.40:401][513]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.10-23.40.40:401][513]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.40.40:401][513]LogAudioMixer: Display: Is Default: Yes
+[2020.02.10-23.40.40:401][513]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.10-23.40.40:402][513]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.10-23.40.40:402][513]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.10-23.40.40:402][513]LogAudioMixer: Display: Channel Order:
+[2020.02.10-23.40.40:402][513]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.10-23.40.40:402][513]LogAudioMixer: Display: 1: FrontRight
+[2020.02.10-23.40.40:409][513]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.40.40:410][513]LogInit: FAudioDevice initialized.
+[2020.02.10-23.40.40:455][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.40.40:455][513]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.10-23.40.40:457][513]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-18.40.40
+[2020.02.10-23.40.40:457][513]LogWorld: Bringing up level for play took: 0.001122
+[2020.02.10-23.40.40:457][513]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.02.10-23.40.40:460][513]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.704
+[2020.02.10-23.40.40:461][513]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.40.43:893][922]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.40.43:893][922]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.40.43:893][922]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.40.43:894][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.40.43:894][922]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.40.43:904][922]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.10-23.40.43:909][922]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.40.43:909][922]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-23.40.43:909][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.40.43:920][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-23.40.43:920][922]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.40.43:924][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.40.43:956][922]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.40.43:962][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.02.10-23.40.43:993][925]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.10-23.41.12:601][324]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-23.41.12:615][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.41.12:615][324]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.10-23.41.12:615][324]LogPlayLevel: [PlayLevel] Compiling BP_Cannon before play...
+[2020.02.10-23.41.12:829][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.02.10-23.41.12:829][324]LogPlayLevel: PlayLevel: Blueprint regeneration took 214 ms (1 blueprints)
+[2020.02.10-23.41.12:830][324]PIE: New page: PIE session: Level1 (Feb 10, 2020, 1:41:12 PM)
+[2020.02.10-23.41.12:830][324]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.41.12:835][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005380s)
+[2020.02.10-23.41.12:836][324]LogAIModule: Creating AISystem for world Level1
+[2020.02.10-23.41.12:836][324]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2020.02.10-23.41.12:836][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006129s)
+[2020.02.10-23.41.12:870][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.02.10-23.41.12:870][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.10-23.41.12:870][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.10-23.41.12:870][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.10-23.41.12:870][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.10-23.41.12:870][324]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.10-23.41.12:870][324]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.10-23.41.12:870][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.10-23.41.12:870][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.10-23.41.12:870][324]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.10-23.41.12:870][324]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.10-23.41.12:898][324]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.10-23.41.12:898][324]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.41.12:898][324]LogAudioMixer: Display: Is Default: Yes
+[2020.02.10-23.41.12:898][324]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.10-23.41.12:898][324]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.10-23.41.12:899][324]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.10-23.41.12:899][324]LogAudioMixer: Display: Channel Order:
+[2020.02.10-23.41.12:899][324]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.10-23.41.12:899][324]LogAudioMixer: Display: 1: FrontRight
+[2020.02.10-23.41.12:907][324]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.10-23.41.12:908][324]LogInit: FAudioDevice initialized.
+[2020.02.10-23.41.12:954][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.41.12:955][324]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.10-23.41.12:957][324]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-18.41.12
+[2020.02.10-23.41.12:957][324]LogWorld: Bringing up level for play took: 0.001270
+[2020.02.10-23.41.12:957][324]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.02.10-23.41.12:960][324]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 1.204
+[2020.02.10-23.41.12:961][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.41.17:368][834]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.41.17:368][834]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.41.17:368][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.41.17:368][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.41.17:368][834]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.10-23.41.17:378][834]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.10-23.41.17:384][834]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.41.17:384][834]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-23.41.17:385][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.41.17:394][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-23.41.17:394][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.10-23.41.17:399][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.10-23.41.17:430][834]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.10-23.41.17:436][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.02.10-23.41.17:471][837]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.10-23.49.38:201][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.02.10-23.49.38:203][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.10-23.49.38:404][736]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Level1_Auto6EE2212B0408882E049172DB67DA7687A.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto6.umap'
+[2020.02.10-23.49.38:406][736]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.239
+[2020.02.10-23.49.38:406][736]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.239
+[2020.02.10-23.49.38:406][736]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_Cannon] ([1] browsable assets)...
+[2020.02.10-23.49.38:437][736]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Cannon/BP_Cannon.BP_Cannon]
+[2020.02.10-23.49.38:437][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_Cannon]
+[2020.02.10-23.49.38:461][736]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_Cannon_Auto642235FB247951BDE77FE42B56B1D81C5.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_Cannon_Auto6.uasset'
+[2020.02.10-23.49.38:462][736]LogFileHelpers: Auto-saving content packages took 0.056
+[2020.02.10-23.57.15:287][124]LogHttp: Warning: 000001B59A22A480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3924CCF4-4716-C198-3E1A-3EA640892E4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=15b88ba44bc9e5e22a450284e1f96240%7C34d0ed53a38e45189717274d34db3cdb%7Ca51899fb-480c-4057-9235-f5aa66db1140&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.10-23.57.15:287][124]LogHttp: Warning: 000001B59A22A480: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.10-23.57.15:287][124]LogHttp: Warning: 000001B59A22A480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b56e967f70 [can pipeline])
+[2020.02.10-23.57.15:287][124]LogHttp: Warning: 000001B59A22A480: libcurl info message cache 1 (Re-using existing connection! (#20) with host datarouter.ol.epicgames.com)
+[2020.02.10-23.57.15:287][124]LogHttp: Warning: 000001B59A22A480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.127.160) port 443 (#20))
+[2020.02.10-23.57.15:287][124]LogHttp: Warning: 000001B59A22A480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.10-23.57.15:287][124]LogHttp: Warning: 000001B59A22A480: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.10-23.57.15:287][124]LogHttp: Warning: 000001B59A22A480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.10-23.57.15:287][124]LogHttp: Warning: 000001B59A22A480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.10-23.57.15:287][124]LogHttp: Warning: 000001B59A22A480: libcurl info message cache 7 (Closing connection 20)
+[2020.02.10-23.57.15:619][125]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3924CCF4-4716-C198-3E1A-3EA640892E4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=15b88ba44bc9e5e22a450284e1f96240%7C34d0ed53a38e45189717274d34db3cdb%7Ca51899fb-480c-4057-9235-f5aa66db1140&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.11-01.01.08:407][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.02.11-01.01.08:408][322]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.037
+[2020.02.11-01.01.08:408][322]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_CannonBall] ([1] browsable assets)...
+[2020.02.11-01.01.08:420][322]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Cannon/BP_CannonBall.BP_CannonBall]
+[2020.02.11-01.01.08:420][322]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_CannonBall]
+[2020.02.11-01.01.08:439][322]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_CannonBall_Auto72311A0704244DB9956D41AB01FD81713.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_CannonBall_Auto7.uasset'
+[2020.02.11-01.01.08:439][322]LogFileHelpers: Auto-saving content packages took 0.031
+[2020.02.11-01.01.42:269][343]BlueprintLog: New page: Compile BP_CannonBall
+[2020.02.11-01.01.42:472][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.02.11-01.01.55:263][851]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Actors/Pawns/BP_PlayerBall.BP_PlayerBall
+[2020.02.11-01.03.26:511][688]BlueprintLog: New page: Compile BP_CannonBall
+[2020.02.11-01.03.26:717][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.02.11-01.05.28:295][266]BlueprintLog: New page: Compile BP_CannonBall
+[2020.02.11-01.05.28:501][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.02.11-01.06.10:537][287]Cmd: DELETE
+[2020.02.11-01.06.10:537][287]Cmd: ACTOR DELETE
+[2020.02.11-01.06.10:578][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.02.11-01.06.10:579][287]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2020.02.11-01.06.28:099][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.BP_KillZoneGameReset
+[2020.02.11-01.08.17:555][283]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-01.08.17:574][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.08.17:574][283]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.11-01.08.17:575][283]LogPlayLevel: [PlayLevel] Compiling BP_KillZoneGameReset before play...
+[2020.02.11-01.08.17:748][283]LogPlayLevel: [PlayLevel] Compiling BP_PlayerBall before play...
+[2020.02.11-01.08.17:970][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.02.11-01.08.17:971][283]LogPlayLevel: PlayLevel: Blueprint regeneration took 396 ms (2 blueprints)
+[2020.02.11-01.08.17:971][283]PIE: New page: PIE session: Level1 (Feb 10, 2020, 3:08:17 PM)
+[2020.02.11-01.08.17:971][283]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.08.17:976][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005555s)
+[2020.02.11-01.08.17:977][283]LogAIModule: Creating AISystem for world Level1
+[2020.02.11-01.08.17:977][283]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2020.02.11-01.08.17:977][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006368s)
+[2020.02.11-01.08.18:012][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.02.11-01.08.18:012][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.11-01.08.18:012][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.11-01.08.18:012][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.11-01.08.18:012][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.11-01.08.18:012][283]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.11-01.08.18:012][283]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.11-01.08.18:012][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.11-01.08.18:012][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.11-01.08.18:013][283]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.11-01.08.18:013][283]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.11-01.08.18:042][283]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.11-01.08.18:042][283]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-01.08.18:042][283]LogAudioMixer: Display: Is Default: Yes
+[2020.02.11-01.08.18:042][283]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.11-01.08.18:042][283]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.11-01.08.18:042][283]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.11-01.08.18:042][283]LogAudioMixer: Display: Channel Order:
+[2020.02.11-01.08.18:042][283]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.11-01.08.18:042][283]LogAudioMixer: Display: 1: FrontRight
+[2020.02.11-01.08.18:051][283]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-01.08.18:052][283]LogInit: FAudioDevice initialized.
+[2020.02.11-01.08.18:084][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-01.08.18:084][283]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.11-01.08.18:086][283]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-20.08.18
+[2020.02.11-01.08.18:086][283]LogWorld: Bringing up level for play took: 0.001064
+[2020.02.11-01.08.18:086][283]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.02.11-01.08.18:089][283]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.332
+[2020.02.11-01.08.18:089][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.08.36:748][505]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.08.36:748][505]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.11-01.08.36:758][505]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.11-01.08.36:758][505]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.08.36:758][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-01.08.36:758][505]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.08.36:768][505]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.11-01.08.36:773][505]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.08.36:773][505]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-01.08.36:773][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.08.36:778][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-01.08.36:778][505]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.08.36:783][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.08.36:819][505]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.08.36:825][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.02.11-01.08.36:855][508]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.11-01.09.35:180][431]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-01.09.35:201][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.09.35:201][431]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.11-01.09.35:202][431]LogPlayLevel: [PlayLevel] Compiling BP_PlayerBall before play...
+[2020.02.11-01.09.35:419][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.02.11-01.09.35:420][431]LogPlayLevel: PlayLevel: Blueprint regeneration took 218 ms (1 blueprints)
+[2020.02.11-01.09.35:420][431]PIE: New page: PIE session: Level1 (Feb 10, 2020, 3:09:35 PM)
+[2020.02.11-01.09.35:420][431]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.09.35:425][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005311s)
+[2020.02.11-01.09.35:426][431]LogAIModule: Creating AISystem for world Level1
+[2020.02.11-01.09.35:426][431]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2020.02.11-01.09.35:426][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006055s)
+[2020.02.11-01.09.35:464][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.02.11-01.09.35:464][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.11-01.09.35:464][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.11-01.09.35:464][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.11-01.09.35:464][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.11-01.09.35:464][431]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.11-01.09.35:464][431]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.11-01.09.35:464][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.11-01.09.35:464][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.11-01.09.35:464][431]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.11-01.09.35:464][431]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.11-01.09.35:493][431]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.11-01.09.35:493][431]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-01.09.35:493][431]LogAudioMixer: Display: Is Default: Yes
+[2020.02.11-01.09.35:493][431]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.11-01.09.35:493][431]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.11-01.09.35:493][431]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.11-01.09.35:493][431]LogAudioMixer: Display: Channel Order:
+[2020.02.11-01.09.35:493][431]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.11-01.09.35:493][431]LogAudioMixer: Display: 1: FrontRight
+[2020.02.11-01.09.35:501][431]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-01.09.35:502][431]LogInit: FAudioDevice initialized.
+[2020.02.11-01.09.35:550][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-01.09.35:550][431]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.11-01.09.35:553][431]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-20.09.35
+[2020.02.11-01.09.35:553][431]LogWorld: Bringing up level for play took: 0.001869
+[2020.02.11-01.09.35:553][431]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.02.11-01.09.35:556][431]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.2
+[2020.02.11-01.09.35:556][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.09.50:304][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.09.50:308][175]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.11-01.09.50:318][175]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.11-01.09.50:318][175]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.09.50:319][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-01.09.50:319][175]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.09.50:329][175]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.11-01.09.50:334][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.09.50:334][175]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-01.09.50:334][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.09.50:347][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-01.09.50:347][175]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.09.50:352][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.09.50:387][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.09.50:393][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.02.11-01.09.50:405][176]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.11-01.10.07:364][136]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-01.10.07:380][136]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.10.07:380][136]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.11-01.10.07:381][136]LogPlayLevel: [PlayLevel] Compiling BP_CannonBall before play...
+[2020.02.11-01.10.07:600][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.02.11-01.10.07:600][136]LogPlayLevel: PlayLevel: Blueprint regeneration took 219 ms (1 blueprints)
+[2020.02.11-01.10.07:600][136]PIE: New page: PIE session: Level1 (Feb 10, 2020, 3:10:07 PM)
+[2020.02.11-01.10.07:600][136]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.10.07:606][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005539s)
+[2020.02.11-01.10.07:606][136]LogAIModule: Creating AISystem for world Level1
+[2020.02.11-01.10.07:607][136]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2020.02.11-01.10.07:607][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006317s)
+[2020.02.11-01.10.07:644][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.02.11-01.10.07:644][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.11-01.10.07:644][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.11-01.10.07:644][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.11-01.10.07:644][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.11-01.10.07:644][136]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.11-01.10.07:644][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.11-01.10.07:644][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.11-01.10.07:644][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.11-01.10.07:645][136]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.11-01.10.07:645][136]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.11-01.10.07:673][136]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.11-01.10.07:673][136]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-01.10.07:673][136]LogAudioMixer: Display: Is Default: Yes
+[2020.02.11-01.10.07:673][136]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.11-01.10.07:673][136]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.11-01.10.07:673][136]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.11-01.10.07:673][136]LogAudioMixer: Display: Channel Order:
+[2020.02.11-01.10.07:673][136]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.11-01.10.07:673][136]LogAudioMixer: Display: 1: FrontRight
+[2020.02.11-01.10.07:681][136]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-01.10.07:682][136]LogInit: FAudioDevice initialized.
+[2020.02.11-01.10.07:733][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-01.10.07:733][136]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.11-01.10.07:734][136]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-20.10.07
+[2020.02.11-01.10.07:735][136]LogWorld: Bringing up level for play took: 0.001083
+[2020.02.11-01.10.07:735][136]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.02.11-01.10.07:738][136]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.019
+[2020.02.11-01.10.07:738][136]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.10.14:446][923]LogNet: Browse: /Game/Maps/Level1
+[2020.02.11-01.10.14:446][923]LogLoad: LoadMap: /Game/Maps/Level1
+[2020.02.11-01.10.14:446][923]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.10.14:447][923]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-01.10.14:447][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.10.14:449][923]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.11-01.10.14:459][923]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.11-01.10.14:496][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.02.11-01.10.14:499][923]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.10.14:504][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005646s)
+[2020.02.11-01.10.14:505][923]LogAIModule: Creating AISystem for world Level1
+[2020.02.11-01.10.14:505][923]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2020.02.11-01.10.14:505][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006478s)
+[2020.02.11-01.10.14:505][923]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.11-01.10.14:507][923]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-20.10.14
+[2020.02.11-01.10.14:507][923]LogWorld: Bringing up level for play took: 0.000829
+[2020.02.11-01.10.14:508][923]LogLoad: Took 0.062118 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level1)
+[2020.02.11-01.10.16:293][137]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.10.16:293][137]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.10.16:293][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.10.16:293][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-01.10.16:293][137]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.10.16:304][137]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.11-01.10.16:308][137]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.10.16:308][137]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-01.10.16:309][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.10.16:312][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-01.10.16:312][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.10.16:317][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.10.16:347][137]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.10.16:352][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.02.11-01.10.16:394][142]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.02.11-01.11.14:449][ 64]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.11-01.13.06:090][237]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.13.06:533][250]LogEditorTransaction: Undo Delete current selection
+[2020.02.11-01.13.07:208][322]LogEditorTransaction: Undo Delete current selection
+[2020.02.11-01.13.07:760][388]LogEditorTransaction: Undo Delete current selection
+[2020.02.11-01.13.08:324][455]LogEditorTransaction: Undo Delete current selection
+[2020.02.11-01.14.51:695][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.02.11-01.14.51:697][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.11-01.14.51:901][735]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Level1_Auto85742E0CC425D154DF4367C8E160098AD.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto8.umap'
+[2020.02.11-01.14.51:905][735]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.251
+[2020.02.11-01.14.51:905][735]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.251
+[2020.02.11-01.14.51:905][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset] ([1] browsable assets)...
+[2020.02.11-01.14.51:905][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset]
+[2020.02.11-01.14.51:919][735]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_KillZoneGameReset_Auto8A64B6C9D47DD6ECBEC684B8AA11469EF.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset_Auto8.uasset'
+[2020.02.11-01.14.51:920][735]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Pawns/BP_PlayerBall] ([1] browsable assets)...
+[2020.02.11-01.14.51:936][735]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Pawns/BP_PlayerBall.BP_PlayerBall]
+[2020.02.11-01.14.51:936][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Pawns/BP_PlayerBall]
+[2020.02.11-01.14.51:966][735]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_PlayerBall_Auto823A4DF45488D942E992D968ABF5BE6E4.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Pawns/BP_PlayerBall_Auto8.uasset'
+[2020.02.11-01.14.51:966][735]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_CannonBall] ([1] browsable assets)...
+[2020.02.11-01.14.51:982][735]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Cannon/BP_CannonBall.BP_CannonBall]
+[2020.02.11-01.14.51:982][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_CannonBall]
+[2020.02.11-01.14.52:000][735]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_CannonBall_Auto882FCFC4548AB4BD948E6939B0516CE27.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_CannonBall_Auto8.uasset'
+[2020.02.11-01.14.52:001][735]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_Cannon] ([1] browsable assets)...
+[2020.02.11-01.14.52:016][735]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Cannon/BP_Cannon.BP_Cannon]
+[2020.02.11-01.14.52:016][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_Cannon]
+[2020.02.11-01.14.52:041][735]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_Cannon_Auto826E4AACD4D072D5E5D3D6AA11F76C59A.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_Cannon_Auto8.uasset'
+[2020.02.11-01.14.52:041][735]LogFileHelpers: Auto-saving content packages took 0.136
+[2020.02.11-01.28.45:990][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.02.11-01.28.45:991][739]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.042
+[2020.02.11-01.28.45:991][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset] ([1] browsable assets)...
+[2020.02.11-01.28.45:991][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset]
+[2020.02.11-01.28.46:008][739]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_KillZoneGameReset_Auto9BE03F8E8435D31E59E3380AC4773DF76.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset_Auto9.uasset'
+[2020.02.11-01.28.46:008][739]LogFileHelpers: Auto-saving content packages took 0.017
+[2020.02.11-01.31.48:871][671]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.11-01.36.20:340][581]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-01.36.20:369][581]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.36.20:369][581]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.11-01.36.20:369][581]LogPlayLevel: [PlayLevel] Compiling BP_KillZoneGameReset before play...
+[2020.02.11-01.36.20:546][581]LogPlayLevel: [PlayLevel] Compiling BP_PlayerBall before play...
+[2020.02.11-01.36.20:763][581]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.02.11-01.36.20:764][581]LogPlayLevel: PlayLevel: Blueprint regeneration took 395 ms (2 blueprints)
+[2020.02.11-01.36.20:764][581]PIE: New page: PIE session: Level1 (Feb 10, 2020, 3:36:20 PM)
+[2020.02.11-01.36.20:764][581]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.36.20:770][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005596s)
+[2020.02.11-01.36.20:770][581]LogAIModule: Creating AISystem for world Level1
+[2020.02.11-01.36.20:771][581]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2020.02.11-01.36.20:771][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006433s)
+[2020.02.11-01.36.20:808][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.02.11-01.36.20:808][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.11-01.36.20:808][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.11-01.36.20:808][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.11-01.36.20:808][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.11-01.36.20:808][581]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.11-01.36.20:808][581]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.11-01.36.20:808][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.11-01.36.20:808][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.11-01.36.20:808][581]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.11-01.36.20:808][581]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.11-01.36.20:837][581]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.11-01.36.20:837][581]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-01.36.20:837][581]LogAudioMixer: Display: Is Default: Yes
+[2020.02.11-01.36.20:838][581]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.11-01.36.20:838][581]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.11-01.36.20:838][581]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.11-01.36.20:838][581]LogAudioMixer: Display: Channel Order:
+[2020.02.11-01.36.20:838][581]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.11-01.36.20:838][581]LogAudioMixer: Display: 1: FrontRight
+[2020.02.11-01.36.20:846][581]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-01.36.20:847][581]LogInit: FAudioDevice initialized.
+[2020.02.11-01.36.20:895][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-01.36.20:895][581]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.11-01.36.20:897][581]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-20.36.20
+[2020.02.11-01.36.20:897][581]LogWorld: Bringing up level for play took: 0.001309
+[2020.02.11-01.36.20:898][581]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.02.11-01.36.20:902][581]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 1.145
+[2020.02.11-01.36.20:902][581]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.36.25:773][145]LogNet: Browse: /Game/Maps/Level1
+[2020.02.11-01.36.25:773][145]LogLoad: LoadMap: /Game/Maps/Level1
+[2020.02.11-01.36.25:773][145]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.36.25:774][145]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-01.36.25:774][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.36.25:774][145]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.36.25:812][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.02.11-01.36.25:813][145]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.36.25:818][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005527s)
+[2020.02.11-01.36.25:819][145]LogAIModule: Creating AISystem for world Level1
+[2020.02.11-01.36.25:819][145]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2020.02.11-01.36.25:819][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006287s)
+[2020.02.11-01.36.25:819][145]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.11-01.36.25:820][145]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-20.36.25
+[2020.02.11-01.36.25:820][145]LogWorld: Bringing up level for play took: 0.000797
+[2020.02.11-01.36.25:821][145]LogLoad: Took 0.047709 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level1)
+[2020.02.11-01.36.27:392][333]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.36.27:392][333]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.36.27:392][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.36.27:392][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-01.36.27:392][333]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.36.27:402][333]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.11-01.36.27:408][333]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.36.27:408][333]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-01.36.27:408][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.36.27:415][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-01.36.27:415][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.36.27:420][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.36.27:456][333]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.36.27:461][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.02.11-01.36.27:495][337]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.02.11-01.37.32:974][ 97]BlueprintLog: New page: Compile BP_KillZoneGameReset
+[2020.02.11-01.37.33:177][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.02.11-01.37.36:712][492]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_KillZoneGameReset1F6745E547D40D0C73DD918D368301C8.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.uasset'
+[2020.02.11-01.37.36:732][492]AssetCheck: New page: Asset Save: BP_KillZoneGameReset
+[2020.02.11-01.37.36:732][492]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.BP_KillZoneGameReset
+[2020.02.11-01.37.37:811][619]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-01.37.37:811][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.38.28:553][642]LogBlueprint: Error: [Compiler ] Delay  cannot be placed in function graph
+[2020.02.11-01.38.28:553][642]BlueprintLog: New page: Collapse to Function
+[2020.02.11-01.38.28:553][642]BlueprintLog: Error: Delay  cannot be placed in function graph
+[2020.02.11-01.39.09:375][453]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-01.39.09:397][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.39.09:397][453]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.11-01.39.09:397][453]LogPlayLevel: [PlayLevel] Compiling BP_PlayerBall before play...
+[2020.02.11-01.39.09:617][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.02.11-01.39.09:618][453]LogPlayLevel: PlayLevel: Blueprint regeneration took 221 ms (1 blueprints)
+[2020.02.11-01.39.09:618][453]PIE: New page: PIE session: Level1 (Feb 10, 2020, 3:39:09 PM)
+[2020.02.11-01.39.09:619][453]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.39.09:624][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005443s)
+[2020.02.11-01.39.09:625][453]LogAIModule: Creating AISystem for world Level1
+[2020.02.11-01.39.09:625][453]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2020.02.11-01.39.09:625][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006191s)
+[2020.02.11-01.39.09:661][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.02.11-01.39.09:662][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.11-01.39.09:662][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.11-01.39.09:662][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.11-01.39.09:662][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.11-01.39.09:662][453]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.11-01.39.09:662][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.11-01.39.09:662][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.11-01.39.09:662][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.11-01.39.09:662][453]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.11-01.39.09:662][453]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.11-01.39.09:691][453]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.11-01.39.09:691][453]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-01.39.09:691][453]LogAudioMixer: Display: Is Default: Yes
+[2020.02.11-01.39.09:691][453]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.11-01.39.09:691][453]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.11-01.39.09:691][453]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.11-01.39.09:691][453]LogAudioMixer: Display: Channel Order:
+[2020.02.11-01.39.09:691][453]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.11-01.39.09:691][453]LogAudioMixer: Display: 1: FrontRight
+[2020.02.11-01.39.09:699][453]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-01.39.09:700][453]LogInit: FAudioDevice initialized.
+[2020.02.11-01.39.09:728][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-01.39.09:728][453]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.11-01.39.09:730][453]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-20.39.09
+[2020.02.11-01.39.09:730][453]LogWorld: Bringing up level for play took: 0.001209
+[2020.02.11-01.39.09:730][453]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.02.11-01.39.09:733][453]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.023
+[2020.02.11-01.39.09:733][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.39.15:042][ 68]LogNet: Browse: /Game/Maps/Level1
+[2020.02.11-01.39.15:042][ 68]LogLoad: LoadMap: /Game/Maps/Level1
+[2020.02.11-01.39.15:042][ 68]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.39.15:042][ 68]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-01.39.15:042][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.39.15:042][ 68]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.39.15:079][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.11-01.39.15:080][ 68]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.39.15:085][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005392s)
+[2020.02.11-01.39.15:086][ 68]LogAIModule: Creating AISystem for world Level1
+[2020.02.11-01.39.15:086][ 68]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2020.02.11-01.39.15:086][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006145s)
+[2020.02.11-01.39.15:086][ 68]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.11-01.39.15:087][ 68]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-20.39.15
+[2020.02.11-01.39.15:087][ 68]LogWorld: Bringing up level for play took: 0.000806
+[2020.02.11-01.39.15:088][ 68]LogLoad: Took 0.046409 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level1)
+[2020.02.11-01.39.20:158][676]LogNet: Browse: /Game/Maps/Level1
+[2020.02.11-01.39.20:158][676]LogLoad: LoadMap: /Game/Maps/Level1
+[2020.02.11-01.39.20:158][676]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.39.20:158][676]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-01.39.20:158][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.39.20:159][676]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.11-01.39.20:160][676]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.11-01.39.20:194][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.11-01.39.20:195][676]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.39.20:200][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005473s)
+[2020.02.11-01.39.20:201][676]LogAIModule: Creating AISystem for world Level1
+[2020.02.11-01.39.20:201][676]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2020.02.11-01.39.20:201][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006209s)
+[2020.02.11-01.39.20:201][676]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.11-01.39.20:202][676]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-20.39.20
+[2020.02.11-01.39.20:202][676]LogWorld: Bringing up level for play took: 0.000802
+[2020.02.11-01.39.20:203][676]LogLoad: Took 0.045100 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level1)
+[2020.02.11-01.39.22:139][908]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.39.22:139][908]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.39.22:139][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.39.22:139][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-01.39.22:140][908]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-01.39.22:151][908]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.11-01.39.22:156][908]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.39.22:156][908]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-01.39.22:157][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.39.22:161][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-01.39.22:161][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-01.39.22:166][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.39.22:200][908]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-01.39.22:205][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.02.11-01.39.22:243][912]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.11-01.40.45:532][759]BlueprintLog: New page: Collapse to Function
+[2020.02.11-01.41.58:019][310]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.41.58:293][318]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.02.11-01.42.51:348][588]BlueprintLog: New page: Collapse to Function
+[2020.02.11-01.43.58:286][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.02.11-01.43.58:287][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.11-01.43.58:488][540]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Level1_Auto0B880981A458514ACACB1968E0D2EBAD7.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto0.umap'
+[2020.02.11-01.43.58:489][540]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.242
+[2020.02.11-01.43.58:489][540]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.242
+[2020.02.11-01.43.58:489][540]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Pawns/BP_PlayerBall] ([1] browsable assets)...
+[2020.02.11-01.43.58:505][540]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Pawns/BP_PlayerBall.BP_PlayerBall]
+[2020.02.11-01.43.58:505][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Pawns/BP_PlayerBall]
+[2020.02.11-01.43.58:535][540]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_PlayerBall_Auto033C0C53E42A401505B1F50A2F1A7FDF0.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Pawns/BP_PlayerBall_Auto0.uasset'
+[2020.02.11-01.43.58:536][540]LogFileHelpers: Auto-saving content packages took 0.047
+[2020.02.11-01.45.24:328][827]LogEditorTransaction: Undo Resize Node
+[2020.02.11-01.45.24:863][842]LogEditorTransaction: Undo Rename Function
+[2020.02.11-01.45.25:427][905]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.45.26:025][974]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2020.02.11-01.45.26:352][  8]LogEditorTransaction: Undo Rename Parameter
+[2020.02.11-01.45.26:633][ 38]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.45.27:067][ 86]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.45.27:386][122]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.45.27:713][159]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.02.11-01.45.28:092][202]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.45.28:551][254]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.45.28:869][290]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.45.29:145][321]LogEditorTransaction: Undo Create Reroute Node
+[2020.02.11-01.45.29:468][357]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.45.29:783][391]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.45.30:110][428]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.45.30:640][489]LogEditorTransaction: Undo Rename Function
+[2020.02.11-01.45.30:992][528]LogEditorTransaction: Undo Move Node
+[2020.02.11-01.45.31:542][591]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2020.02.11-01.45.34:526][946]LogEditorTransaction: Undo Create Pin Link
+[2020.02.11-01.45.37:475][297]LogEditorTransaction: Undo Delete current selection
+[2020.02.11-01.45.40:793][692]LogEditorTransaction: Undo Create Pin Link
+[2020.02.11-01.45.42:647][867]LogEditorTransaction: Redo Create Pin Link
+[2020.02.11-01.45.51:347][880]BlueprintLog: New page: Collapse to Macro
+[2020.02.11-01.47.09:766][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.02.11-01.47.09:768][143]LogMetaData: Removing '/Game/Blueprint/Actors/LevelTriggers/BP_DamageVolume.BP_DamageVolume_C' ref from Metadata '/Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.PackageMetaData'
+[2020.02.11-01.47.09:768][143]LogMetaData: Removing '/Game/Blueprint/Actors/LevelTriggers/BP_DamageVolume.BP_DamageVolume:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.PackageMetaData'
+[2020.02.11-01.47.09:768][143]LogMetaData: Removing '/Game/Blueprint/Actors/LevelTriggers/BP_DamageVolume.SKEL_BP_DamageVolume_C' ref from Metadata '/Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.PackageMetaData'
+[2020.02.11-01.47.09:809][143]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_DamageVolumeCBE093DD4FCB1379637292996586E4CF.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/LevelTriggers/BP_DamageVolume.uasset'
+[2020.02.11-01.47.09:925][143]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_KillZoneGameReset17E8671444EB5BFF180318A86AA558EB.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.uasset'
+[2020.02.11-01.47.10:123][143]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.11-01.47.10:123][143]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Actors/LevelTriggers/BP_DamageVolume.BP_DamageVolume
+[2020.02.11-01.47.10:123][143]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.BP_KillZoneGameReset
+[2020.02.11-01.47.10:123][143]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.BP_KillZoneGameReset_C
+[2020.02.11-01.47.20:716][326]LogMetaData: Removing '/Game/Blueprint/Actors/Volumes/BP_DamageVolume.BP_DamageVolume_C' ref from Metadata '/Game/Blueprint/Actors/LevelTriggers/BP_DamageVolume.PackageMetaData'
+[2020.02.11-01.47.20:716][326]LogMetaData: Removing '/Game/Blueprint/Actors/Volumes/BP_DamageVolume.SKEL_BP_DamageVolume_C' ref from Metadata '/Game/Blueprint/Actors/LevelTriggers/BP_DamageVolume.PackageMetaData'
+[2020.02.11-01.47.20:716][326]LogMetaData: Removing '/Game/Blueprint/Actors/Volumes/BP_DamageVolume.BP_DamageVolume:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprint/Actors/LevelTriggers/BP_DamageVolume.PackageMetaData'
+[2020.02.11-01.47.20:716][326]LogMetaData: Removing '/Game/Blueprint/Actors/Volumes/BP_DamageVolume.SKEL_BP_DamageVolume_C:BndEvt__KillZone_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprint/Actors/LevelTriggers/BP_DamageVolume.PackageMetaData'
+[2020.02.11-01.47.20:716][326]LogMetaData: Removing '/Game/Blueprint/Actors/Volumes/BP_DamageVolume.SKEL_BP_DamageVolume_C:KillZone' ref from Metadata '/Game/Blueprint/Actors/LevelTriggers/BP_DamageVolume.PackageMetaData'
+[2020.02.11-01.47.20:716][326]LogMetaData: Removing '/Game/Blueprint/Actors/Volumes/BP_DamageVolume.SKEL_BP_DamageVolume_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/Actors/LevelTriggers/BP_DamageVolume.PackageMetaData'
+[2020.02.11-01.47.20:716][326]LogMetaData: Removing '/Game/Blueprint/Actors/Volumes/BP_DamageVolume.BP_DamageVolume_C:KillZone' ref from Metadata '/Game/Blueprint/Actors/LevelTriggers/BP_DamageVolume.PackageMetaData'
+[2020.02.11-01.47.20:776][326]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_DamageVolumeB59E919B464798FA470B58B15EEA50BA.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Volumes/BP_DamageVolume.uasset'
+[2020.02.11-01.47.20:885][326]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_KillZoneGameReset06E2482443C4597A9524FAB493D5177C.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Volumes/BP_KillZoneGameReset.uasset'
+[2020.02.11-01.47.20:987][326]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_KillZoneGameReset818D62334DE66BBEFD59E0B47FDA56C8.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.uasset'
+[2020.02.11-01.47.20:993][326]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_KillZoneGameReset_C252F868C4918919925179B9862C7EA7A.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Volumes/BP_KillZoneGameReset_C.uasset'
+[2020.02.11-01.47.21:717][326]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.02.11-01.47.21:761][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.02.11-01.47.21:794][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.02.11-01.47.21:894][326]SourceControl: rm 'Content/Blueprint/Actors/LevelTriggers/BP_DamageVolume.uasset'
+[2020.02.11-01.47.21:970][326]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.11-01.47.21:970][326]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Actors/Volumes/BP_DamageVolume.BP_DamageVolume
+[2020.02.11-01.47.21:970][326]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprint/Actors/Volumes/BP_KillZoneGameReset.BP_KillZoneGameReset
+[2020.02.11-01.47.21:970][326]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.BP_KillZoneGameReset_C
+[2020.02.11-01.47.21:970][326]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.BP_KillZoneGameReset
+[2020.02.11-01.47.21:970][326]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprint/Actors/Volumes/BP_KillZoneGameReset_C.BP_KillZoneGameReset_C
+[2020.02.11-01.48.08:946][460]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.11-01.48.41:620][361]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Actors/Volumes/BP_GoalVolume.BP_GoalVolume
+[2020.02.11-01.49.30:101][ 30]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Actors/Collectables/BP_Crystal.BP_Crystal
+[2020.02.11-01.51.30:808][517]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.11-01.51.48:551][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Libraries/CC_MacroLibrary.CC_MacroLibrary
+[2020.02.11-01.53.31:522][805]Cmd: TRANSACTION UNDO
+[2020.02.11-01.53.31:522][805]LogEditorTransaction: Undo Change Parameter Type
+[2020.02.11-01.55.49:007][979]BlueprintLog: New page: Compile BP_Crystal
+[2020.02.11-01.55.49:236][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.02.11-01.56.32:169][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Libraries/CC_MacroLibrary" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Libraries/CC_MacroLibrary.uasset" SILENT=true
+[2020.02.11-01.56.32:176][ 79]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/CC_MacroLibrary06EC70A64F6617DD824790911AFEE3C9.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Libraries/CC_MacroLibrary.uasset'
+[2020.02.11-01.56.32:293][ 79]AssetCheck: New page: Asset Save: CC_MacroLibrary
+[2020.02.11-01.56.32:293][ 79]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Libraries/CC_MacroLibrary.CC_MacroLibrary
+[2020.02.11-01.56.41:543][179]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-01.56.41:543][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-01.57.11:635][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.02.11-01.57.11:636][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.11-01.57.11:834][707]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Level1_Auto1F889FAAC4DCF1255890BEBA916CC05B6.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Maps/Level1_Auto1.umap'
+[2020.02.11-01.57.11:836][707]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.242
+[2020.02.11-01.57.11:836][707]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.242
+[2020.02.11-01.57.11:836][707]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Collectables/BP_Crystal] ([1] browsable assets)...
+[2020.02.11-01.57.11:866][707]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Collectables/BP_Crystal.BP_Crystal]
+[2020.02.11-01.57.11:866][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Collectables/BP_Crystal]
+[2020.02.11-01.57.11:897][707]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_Crystal_Auto1F59C0C354307990CFDDC5BA4ABB9C5B4.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Collectables/BP_Crystal_Auto1.uasset'
+[2020.02.11-01.57.11:898][707]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Pawns/BP_PlayerBall] ([1] browsable assets)...
+[2020.02.11-01.57.11:913][707]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Pawns/BP_PlayerBall.BP_PlayerBall]
+[2020.02.11-01.57.11:913][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Pawns/BP_PlayerBall]
+[2020.02.11-01.57.11:942][707]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_PlayerBall_Auto16FE34315491B3CA360E81087470A3870.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Pawns/BP_PlayerBall_Auto1.uasset'
+[2020.02.11-01.57.11:946][707]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_CannonBall] ([1] browsable assets)...
+[2020.02.11-01.57.11:961][707]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Cannon/BP_CannonBall.BP_CannonBall]
+[2020.02.11-01.57.11:961][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_CannonBall]
+[2020.02.11-01.57.11:980][707]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_CannonBall_Auto17C9F25A64BC1579C90D89EAD0FA1D91A.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_CannonBall_Auto1.uasset'
+[2020.02.11-01.57.11:981][707]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Actors/Cannon/BP_Cannon] ([1] browsable assets)...
+[2020.02.11-01.57.11:996][707]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Actors/Cannon/BP_Cannon.BP_Cannon]
+[2020.02.11-01.57.11:996][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Cannon/BP_Cannon]
+[2020.02.11-01.57.12:022][707]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_Cannon_Auto1BD4CAECE4285EC4A3032B693C0481703.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Cannon/BP_Cannon_Auto1.uasset'
+[2020.02.11-01.57.12:026][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Actors/Volumes/BP_GoalVolume] ([1] browsable assets)...
+[2020.02.11-01.57.12:027][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Volumes/BP_GoalVolume]
+[2020.02.11-01.57.12:033][707]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_GoalVolume_Auto1DA9A0DAA4093C2B55B1EA8B485251F39.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Volumes/BP_GoalVolume_Auto1.uasset'
+[2020.02.11-01.57.12:034][707]LogFileHelpers: Auto-saving content packages took 0.198
+[2020.02.11-01.58.11:249][252]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.11-02.00.33:782][266]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.11-02.01.19:049][444]BlueprintLog: New page: Compile BP_GoalVolume
+[2020.02.11-02.01.19:256][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.02.11-02.06.14:916][914]LogHttp: Warning: 000001B55908E480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3924CCF4-4716-C198-3E1A-3EA640892E4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=15b88ba44bc9e5e22a450284e1f96240%7C34d0ed53a38e45189717274d34db3cdb%7Ca51899fb-480c-4057-9235-f5aa66db1140&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.11-02.06.14:916][914]LogHttp: Warning: 000001B55908E480: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.11-02.06.14:916][914]LogHttp: Warning: 000001B55908E480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b56e967f70 [can pipeline])
+[2020.02.11-02.06.14:916][914]LogHttp: Warning: 000001B55908E480: libcurl info message cache 1 (Re-using existing connection! (#64) with host datarouter.ol.epicgames.com)
+[2020.02.11-02.06.14:916][914]LogHttp: Warning: 000001B55908E480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.23.44.24) port 443 (#64))
+[2020.02.11-02.06.14:916][914]LogHttp: Warning: 000001B55908E480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.11-02.06.14:916][914]LogHttp: Warning: 000001B55908E480: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.11-02.06.14:916][914]LogHttp: Warning: 000001B55908E480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.11-02.06.14:916][914]LogHttp: Warning: 000001B55908E480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.11-02.06.14:916][914]LogHttp: Warning: 000001B55908E480: libcurl info message cache 7 (Closing connection 64)
+[2020.02.11-02.06.14:916][914]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3924CCF4-4716-C198-3E1A-3EA640892E4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=15b88ba44bc9e5e22a450284e1f96240%7C34d0ed53a38e45189717274d34db3cdb%7Ca51899fb-480c-4057-9235-f5aa66db1140&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.11-02.07.11:981][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.02.11-02.07.11:982][705]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.041
+[2020.02.11-02.07.11:982][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Actors/Volumes/BP_GoalVolume] ([1] browsable assets)...
+[2020.02.11-02.07.11:982][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Volumes/BP_GoalVolume]
+[2020.02.11-02.07.11:992][705]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_GoalVolume_Auto2D15078C243448E77A8E3E896CB2D6C93.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Volumes/BP_GoalVolume_Auto2.uasset'
+[2020.02.11-02.07.11:993][705]LogFileHelpers: Auto-saving content packages took 0.011
+[2020.02.11-02.17.11:907][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.02.11-02.17.11:908][512]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.040
+[2020.02.11-02.17.11:909][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Actors/Volumes/BP_GoalVolume] ([1] browsable assets)...
+[2020.02.11-02.17.11:909][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Volumes/BP_GoalVolume]
+[2020.02.11-02.17.11:920][512]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_GoalVolume_Auto3A3C63452460210274AD1688A37185943.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Volumes/BP_GoalVolume_Auto3.uasset'
+[2020.02.11-02.17.11:924][512]LogFileHelpers: Auto-saving content packages took 0.016
+[2020.02.11-02.18.07:656][193]BlueprintLog: New page: Compile BP_GoalVolume
+[2020.02.11-02.18.07:871][193]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.11-02.20.03:831][ 74]BlueprintLog: New page: Collapse to Function
+[2020.02.11-02.26.19:084][868]BlueprintLog: New page: Compile BP_GoalVolume
+[2020.02.11-02.26.19:299][868]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.02.11-02.27.11:871][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.02.11-02.27.11:871][ 97]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.039
+[2020.02.11-02.27.11:871][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Actors/Volumes/BP_GoalVolume] ([1] browsable assets)...
+[2020.02.11-02.27.11:871][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Actors/Volumes/BP_GoalVolume]
+[2020.02.11-02.27.11:883][ 97]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_GoalVolume_Auto4456752C34210F957C747E28335308056.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Autosaves/Game/Blueprint/Actors/Volumes/BP_GoalVolume_Auto4.uasset'
+[2020.02.11-02.27.11:884][ 97]LogFileHelpers: Auto-saving content packages took 0.012
+[2020.02.11-02.31.15:591][158]Cmd: DELETE
+[2020.02.11-02.31.15:591][158]Cmd: ACTOR DELETE
+[2020.02.11-02.31.15:595][158]LogEditorActor: Deleted Actor: BP_Crystal_C
+[2020.02.11-02.31.15:595][158]LogEditorActor: Deleted Actor: BP_Crystal_C
+[2020.02.11-02.31.15:596][158]LogEditorActor: Deleted Actor: BP_Crystal_C
+[2020.02.11-02.31.15:596][158]LogEditorActor: Deleted Actor: BP_Crystal_C
+[2020.02.11-02.31.15:636][158]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.02.11-02.31.15:637][158]LogEditorActor: Deleted 4 Actors (0.046 secs)
+[2020.02.11-02.31.23:678][120]Cmd: DELETE
+[2020.02.11-02.31.23:678][120]Cmd: ACTOR DELETE
+[2020.02.11-02.31.23:680][120]LogEditorActor: Deleted Actor: BP_Crystal_C
+[2020.02.11-02.31.23:714][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.02.11-02.31.23:715][120]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.02.11-02.31.23:963][150]Cmd: DELETE
+[2020.02.11-02.31.23:964][150]Cmd: ACTOR DELETE
+[2020.02.11-02.31.24:000][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.02.11-02.31.24:000][150]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2020.02.11-02.31.29:134][759]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal2)
+[2020.02.11-02.31.35:364][503]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal3)
+[2020.02.11-02.33.23:371][295]BlueprintLog: New page: Compile BP_GoalVolume
+[2020.02.11-02.33.23:599][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.02.11-02.33.24:330][364]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_GoalVolumeCD4468844CA1B37438E17EB80B1417B4.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Volumes/BP_GoalVolume.uasset'
+[2020.02.11-02.33.24:443][364]AssetCheck: New page: Asset Save: BP_GoalVolume
+[2020.02.11-02.33.24:443][364]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Actors/Volumes/BP_GoalVolume.BP_GoalVolume
+[2020.02.11-02.34.25:921][618]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.02.11-02.34.28:985][983]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.02.11-02.34.30:446][147]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-02.34.30:473][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-02.34.30:473][147]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.11-02.34.30:474][147]LogPlayLevel: [PlayLevel] Compiling BP_PlayerBall before play...
+[2020.02.11-02.34.30:659][147]LogPlayLevel: [PlayLevel] Compiling BP_CannonBall before play...
+[2020.02.11-02.34.30:841][147]LogPlayLevel: [PlayLevel] Compiling BP_Cannon before play...
+[2020.02.11-02.34.31:026][147]LogPlayLevel: [PlayLevel] Compiling BP_Crystal before play...
+[2020.02.11-02.34.31:026][147]LogPlayLevel: [PlayLevel]   Compiling BP_GoalVolume as a dependent...
+[2020.02.11-02.34.31:027][147]LogPlayLevel: [PlayLevel]   Compiling CC_MacroLibrary as a dependent...
+[2020.02.11-02.34.31:262][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.02.11-02.34.31:263][147]LogPlayLevel: PlayLevel: Blueprint regeneration took 790 ms (6 blueprints)
+[2020.02.11-02.34.31:263][147]PIE: New page: PIE session: Level1 (Feb 10, 2020, 4:34:31 PM)
+[2020.02.11-02.34.31:263][147]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-02.34.31:268][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004933s)
+[2020.02.11-02.34.31:269][147]LogAIModule: Creating AISystem for world Level1
+[2020.02.11-02.34.31:269][147]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2020.02.11-02.34.31:269][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.005739s)
+[2020.02.11-02.34.31:303][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.02.11-02.34.31:303][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.11-02.34.31:303][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.11-02.34.31:303][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.11-02.34.31:303][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.11-02.34.31:303][147]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.11-02.34.31:303][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.11-02.34.31:303][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.11-02.34.31:303][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.11-02.34.31:304][147]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.11-02.34.31:304][147]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.11-02.34.31:333][147]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.11-02.34.31:333][147]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-02.34.31:333][147]LogAudioMixer: Display: Is Default: Yes
+[2020.02.11-02.34.31:333][147]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.11-02.34.31:333][147]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.11-02.34.31:333][147]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.11-02.34.31:333][147]LogAudioMixer: Display: Channel Order:
+[2020.02.11-02.34.31:333][147]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.11-02.34.31:333][147]LogAudioMixer: Display: 1: FrontRight
+[2020.02.11-02.34.31:342][147]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-02.34.31:343][147]LogInit: FAudioDevice initialized.
+[2020.02.11-02.34.31:347][147]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.11-02.34.31:348][147]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-21.34.31
+[2020.02.11-02.34.31:349][147]LogWorld: Bringing up level for play took: 0.000752
+[2020.02.11-02.34.31:349][147]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.02.11-02.34.31:350][147]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 1.593
+[2020.02.11-02.34.31:350][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-02.34.41:098][303]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-02.34.41:100][303]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.11-02.34.41:110][303]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.11-02.34.41:110][303]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-02.34.41:111][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-02.34.41:111][303]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-02.34.41:111][303]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-02.34.41:111][303]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-02.34.41:111][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-02.34.41:119][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-02.34.41:119][303]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-02.34.41:124][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-02.34.41:160][303]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-02.34.41:162][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-02.34.41:165][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.11-02.34.41:198][305]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.02.11-02.36.47:306][288]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-02.36.47:328][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-02.36.47:329][288]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.11-02.36.47:329][288]LogPlayLevel: [PlayLevel] Compiling BP_GoalVolume before play...
+[2020.02.11-02.36.47:544][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.02.11-02.36.47:544][288]LogPlayLevel: PlayLevel: Blueprint regeneration took 216 ms (1 blueprints)
+[2020.02.11-02.36.47:545][288]PIE: New page: PIE session: Level1 (Feb 10, 2020, 4:36:47 PM)
+[2020.02.11-02.36.47:545][288]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-02.36.47:549][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004775s)
+[2020.02.11-02.36.47:550][288]LogAIModule: Creating AISystem for world Level1
+[2020.02.11-02.36.47:550][288]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2020.02.11-02.36.47:550][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.005640s)
+[2020.02.11-02.36.47:588][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.02.11-02.36.47:588][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.11-02.36.47:588][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.11-02.36.47:588][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.11-02.36.47:588][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.11-02.36.47:588][288]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.11-02.36.47:588][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.11-02.36.47:588][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.11-02.36.47:588][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.11-02.36.47:588][288]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.11-02.36.47:588][288]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.11-02.36.47:617][288]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.11-02.36.47:617][288]LogAudioMixer: Display: Name: Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-02.36.47:617][288]LogAudioMixer: Display: Is Default: Yes
+[2020.02.11-02.36.47:617][288]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.11-02.36.47:617][288]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.11-02.36.47:617][288]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.11-02.36.47:617][288]LogAudioMixer: Display: Channel Order:
+[2020.02.11-02.36.47:617][288]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.11-02.36.47:617][288]LogAudioMixer: Display: 1: FrontRight
+[2020.02.11-02.36.47:626][288]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2020.02.11-02.36.47:627][288]LogInit: FAudioDevice initialized.
+[2020.02.11-02.36.47:685][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-02.36.47:685][288]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.11-02.36.47:687][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.10-21.36.47
+[2020.02.11-02.36.47:687][288]LogWorld: Bringing up level for play took: 0.001076
+[2020.02.11-02.36.47:687][288]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.02.11-02.36.47:690][288]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.067
+[2020.02.11-02.36.47:691][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-02.36.50:317][594]LogBlueprintUserMessages: [BP_GoalVolume_2] Crystals still remain
+[2020.02.11-02.36.57:772][485]LogBlueprintUserMessages: [BP_GoalVolume_2] You win!
+[2020.02.11-02.36.59:172][653]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-02.36.59:182][653]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.11-02.36.59:192][653]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.11-02.36.59:192][653]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-02.36.59:192][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-02.36.59:192][653]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.02.11-02.36.59:204][653]LogSlate: Window 'MadMarble Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.11-02.36.59:210][653]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-02.36.59:210][653]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-02.36.59:210][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-02.36.59:219][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-02.36.59:219][653]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.11-02.36.59:224][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-02.36.59:259][653]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.11-02.36.59:264][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.11-02.36.59:278][654]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.11-02.40.33:440][147]BlueprintLog: New page: Compile BP_GoalVolume
+[2020.02.11-02.40.33:661][147]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.02.11-02.41.04:204][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.11-02.41.04:245][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.02.11-02.41.04:440][724]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Level11803743C46865B2E5601FC94A26DEC41.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Maps/Level1.umap'
+[2020.02.11-02.41.04:538][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.02.11-02.41.04:575][724]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Level1_BuiltData77A405E34303FFC69E2DE9B3EE6525C9.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Maps/Level1_BuiltData.uasset'
+[2020.02.11-02.41.04:590][724]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.11-02.41.04:591][724]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2020.02.11-02.41.04:591][724]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.02.11-02.41.11:187][ 10]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.11-02.41.11:273][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.02.11-02.41.11:443][ 10]LogAIModule: Creating AISystem for world Level2
+[2020.02.11-02.41.11:451][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Maps/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.11-02.41.11:494][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.02.11-02.41.11:676][ 10]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Level2C512982449544C88D26F78825ED4623C.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Maps/Level2.umap'
+[2020.02.11-02.41.11:808][ 10]LogFileHelpers: Saving map 'Level2' took 0.614
+[2020.02.11-02.41.11:809][ 10]Cmd: MAP LOAD FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.11-02.41.11:837][ 10]LightingResults: New page: Lighting Build
+[2020.02.11-02.41.11:838][ 10]LoadErrors: New page: Loading map: Level2.umap
+[2020.02.11-02.41.11:838][ 10]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.11-02.41.11:838][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.11-02.41.11:838][ 10]MapCheck: New page: Map Check
+[2020.02.11-02.41.11:838][ 10]LightingResults: New page: Lighting Build
+[2020.02.11-02.41.11:878][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.02.11-02.41.11:949][ 10]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.11-02.41.11:986][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.02.11-02.41.12:018][ 10]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.11-02.41.12:018][ 10]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2020.02.11-02.41.12:018][ 10]LogFileHelpers: Loading map 'Level2' took 0.210
+[2020.02.11-02.41.12:025][ 10]AssetCheck: New page: Asset Save: Level2
+[2020.02.11-02.41.12:025][ 10]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2020.02.11-02.42.26:933][959]BlueprintLog: New page: Compile BP_GoalVolume
+[2020.02.11-02.42.27:134][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.11-02.42.33:637][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Maps/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.11-02.42.33:672][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.02.11-02.42.33:864][706]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/Level2E0D6521E46E0CEFFFE6E0FA7B495F02B.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Maps/Level2.umap'
+[2020.02.11-02.42.33:903][706]AssetCheck: New page: Asset Save: Level2
+[2020.02.11-02.42.33:903][706]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2020.02.11-02.42.39:983][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.02.11-02.42.40:204][411]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_GoalVolumeA4FEB81A4BCC196F869760B82E35DAC1.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Volumes/BP_GoalVolume.uasset'
+[2020.02.11-02.42.40:230][411]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_Crystal168675E74920D2775679DDB5E78705F7.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Collectables/BP_Crystal.uasset'
+[2020.02.11-02.42.40:247][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Actors/Pawns/BP_PlayerBall" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Pawns/BP_PlayerBall.uasset" SILENT=true
+[2020.02.11-02.42.40:276][411]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_PlayerBallA597F1DF4DF283161A6CF1BD0F50DE59.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Pawns/BP_PlayerBall.uasset'
+[2020.02.11-02.42.40:287][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Actors/Cannon/BP_CannonBall" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/BP_CannonBall.uasset" SILENT=true
+[2020.02.11-02.42.40:305][411]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_CannonBall3E5FFE5848062F887811E4A2D35C6405.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/BP_CannonBall.uasset'
+[2020.02.11-02.42.40:440][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Actors/Cannon/BP_Cannon" FILE="../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/BP_Cannon.uasset" SILENT=true
+[2020.02.11-02.42.40:466][411]LogSavePackage: Moving '../../../../../../Users/grean/Documents/GitHub/MadMarble/Saved/BP_Cannon91439815446C9A01B29FB682A7CE719E.tmp' to '../../../../../../Users/grean/Documents/GitHub/MadMarble/Content/Blueprint/Actors/Cannon/BP_Cannon.uasset'
+[2020.02.11-02.42.40:499][411]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.11-02.42.40:499][411]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Actors/Volumes/BP_GoalVolume.BP_GoalVolume
+[2020.02.11-02.42.40:499][411]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Actors/Collectables/BP_Crystal.BP_Crystal
+[2020.02.11-02.42.40:499][411]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Actors/Pawns/BP_PlayerBall.BP_PlayerBall
+[2020.02.11-02.42.40:499][411]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Actors/Cannon/BP_CannonBall.BP_CannonBall
+[2020.02.11-02.42.40:499][411]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Actors/Cannon/BP_Cannon.BP_Cannon
+[2020.02.11-02.42.45:754][998]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo', but the path contains illegal characters '.'
+[2020.02.11-02.42.45:844][998]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2020.02.11-02.43.08:090][998]LogSlate: Window 'Submit Files' being destroyed
+[2020.02.11-02.43.08:686][998]LogSourceControl: commit successful: [master 8b045c3] Finished through lesson 46
+[2020.02.11-02.43.08:966][998]SourceControl: [master 8b045c3] Finished through lesson 46
+[2020.02.11-02.43.08:966][998]SourceControl:  15 files changed, 0 insertions(+), 0 deletions(-)
+[2020.02.11-02.43.08:966][998]SourceControl:  create mode 100644 Content/Blueprint/Actors/Cannon/BP_Cannon.uasset
+[2020.02.11-02.43.08:966][998]SourceControl:  create mode 100644 Content/Blueprint/Actors/Cannon/BP_CannonBall.uasset
+[2020.02.11-02.43.08:966][998]SourceControl:  create mode 100644 Content/Blueprint/Actors/Cannon/Meshes/SM_CannonBarrel.uasset
+[2020.02.11-02.43.08:966][998]SourceControl:  create mode 100644 Content/Blueprint/Actors/Cannon/Meshes/SM_CannonBase.uasset
+[2020.02.11-02.43.08:966][998]SourceControl:  rewrite Content/Blueprint/Actors/LevelTriggers/BP_KillZoneGameReset.uasset (99%)
+[2020.02.11-02.43.08:966][998]SourceControl:  rewrite Content/Blueprint/Actors/Pawns/BP_PlayerBall.uasset (87%)
+[2020.02.11-02.43.08:966][998]SourceControl:  create mode 100644 Content/Blueprint/Actors/Volumes/BP_DamageVolume.uasset
+[2020.02.11-02.43.08:966][998]SourceControl:  create mode 100644 Content/Blueprint/Actors/Volumes/BP_GoalVolume.uasset
+[2020.02.11-02.43.08:966][998]SourceControl:  create mode 100644 Content/Blueprint/Actors/Volumes/BP_KillZoneGameReset.uasset
+[2020.02.11-02.43.08:966][998]SourceControl:  create mode 100644 Content/Blueprint/Actors/Volumes/BP_KillZoneGameReset_C.uasset
+[2020.02.11-02.43.08:966][998]SourceControl:  create mode 100644 Content/Blueprint/Libraries/CC_MacroLibrary.uasset
+[2020.02.11-02.43.08:966][998]SourceControl:  create mode 100644 Content/Maps/Level2.umap
+[2020.02.11-02.43.08:974][998]SourceControl: Commited [master 8b045c3] Finished through lesson 46.
